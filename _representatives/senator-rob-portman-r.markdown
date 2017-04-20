@@ -1,5 +1,5 @@
 ---
-title: Senator Rob Portman (R)
+title: Sen. Rob Portman (R)
 date: 2017-04-18 14:02:00 -04:00
 phone-numbers:
   D.C. office: "(202) 224-3353"
