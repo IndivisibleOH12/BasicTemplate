@@ -2,11 +2,8 @@
 title: Sen. Rob Portman (R)
 date: 2017-04-18 14:02:00 -04:00
 phone-numbers:
-  D.C. office: "(202) 224-3353"
   Columbus office: "(614) 469-6774"
-  Cincinnati office: "(513) 684-3265"
-  Toledo office: "(419) 259-3895"
-  Cleveland office: "(216) 522-7095"
+  D.C. office: "(202) 224-3353"
 website: https://www.portman.senate.gov/public/index.cfm/contact-form
 ---
 
