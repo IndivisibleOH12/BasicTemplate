@@ -1,13 +1,13 @@
 ---
 title: 'Columbus Town Hall: Apr. 23, 5 pm'
-date: 2017-02-03 02:10:00 -05:00
+date: 2017-04-23 17:00:00 -04:00
 categories:
 - event
 tags:
 - meeting
 - townhall
 is featured: true
-main-image: "/uploads/Unknown.jpeg"
+main-image: "/uploads/TH%20people.jpg"
 event-start-date: 2017-04-23 17:00:00 -04:00
 event-end-date: 2017-04-23 18:30:00 -04:00
 Location: First UU Church, 93 W Weisheimer Rd, Columbus, OH 43214
