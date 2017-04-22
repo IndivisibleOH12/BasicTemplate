@@ -57,13 +57,13 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: 'Citizens in central Ohio fighting  the Trump agenda. '
+subtitle: 'Fighting  the Trump agenda, together. '
 email: indivisibleoh12@gmail.com
 baseurl: 
 url: 
 twitter_username: ohiodistrict12
 facebook_username: indivisibleOH12
-background-image: "/uploads/penceprotest-baeb67.jpg"
+background-image: "/uploads/TH%20people.jpg"
 member-count: 100
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
