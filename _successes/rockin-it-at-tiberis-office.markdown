@@ -5,7 +5,7 @@ tags:
 - tiberi
 is featured: true
 main-image: "/uploads/brenda%20doc.jpg"
-Other Photos: "/uploads/IMG_4750.JPG"
+Other Photos: "/uploads/IMG_4749.JPG"
 Key: 
 ---
 
