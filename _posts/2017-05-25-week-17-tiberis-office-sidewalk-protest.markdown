@@ -1,10 +1,11 @@
 ---
 title: Week 17, Tiberi's office sidewalk protest
-date: 2017-05-21 18:13:00 -04:00
+date: 2017-05-25 12:00:00 -04:00
 categories:
 - Event
 tags:
-- RSVP
+- Tiberi
+- Protest
 is featured: false
 main-image: "/uploads/signing.jpg"
 event-start-date: 2017-05-25 12:00:00 -04:00
