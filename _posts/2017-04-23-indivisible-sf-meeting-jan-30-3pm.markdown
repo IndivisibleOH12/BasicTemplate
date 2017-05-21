@@ -6,7 +6,7 @@ categories:
 tags:
 - meeting
 - townhall
-is featured: true
+is featured: false
 main-image: "/uploads/TH%20people.jpg"
 event-start-date: 2017-04-23 17:00:00 -04:00
 event-end-date: 2017-04-23 18:30:00 -04:00
