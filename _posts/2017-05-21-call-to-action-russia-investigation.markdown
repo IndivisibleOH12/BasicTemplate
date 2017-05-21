@@ -6,6 +6,7 @@ categories:
 tags:
 - Tiberi
 - Russia
+- action
 is featured: true
 call-script-text: |2-
 
