@@ -5,7 +5,7 @@ categories:
 - Event
 tags:
 - RSVP
-is featured: true
+is featured: false
 main-image: "/uploads/signing.jpg"
 event-start-date: 2017-05-25 12:00:00 -04:00
 event-end-date: 2017-05-25 13:30:00 -04:00
