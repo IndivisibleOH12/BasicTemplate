@@ -3,7 +3,7 @@ title: Let's Email About the AHCA
 date: 2017-05-21 17:56:00 -04:00
 categories:
 - Action
-is featured: true
+is featured: false
 ---
 
 Send your thoughts about the AHCA (the ACA repeal) to HealthReform@Finance.Senate.gov. 
