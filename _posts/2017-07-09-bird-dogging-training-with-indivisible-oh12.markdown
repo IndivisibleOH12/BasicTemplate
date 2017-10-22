@@ -5,7 +5,7 @@ tags:
 - training
 - bird-dogging
 - social media
-is featured: true
+is featured: false
 main-image: "/uploads/Pence%20action.jpg"
 Location: Northwest Library, 2280 Hard Rd, Columbus, Ohio 43235
 ---
